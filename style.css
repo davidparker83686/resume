@@ -1,0 +1,14 @@
+
+:root {
+  --primary: rgb(0, 0, 170);
+  --secondary: rgb(233, 233, 14);
+}
+
+
+
+
+
+
+h1{
+  color: var(--primary);
+}
